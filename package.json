@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  },
+  "name": "mongodb-node",
+  "version": "1.0.0",
+  "main": "mongodb.js",
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.8",
+    "@babel/node": "^7.22.6",
+    "@babel/preset-env": "^7.22.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
